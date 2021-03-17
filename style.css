@@ -1,0 +1,9 @@
+.list_none{
+  display: none;
+}
+.none{
+  display: none;
+}
+.active{
+  display: inline-block;
+}
